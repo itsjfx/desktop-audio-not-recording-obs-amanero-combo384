@@ -7,7 +7,7 @@ https://i.imgur.com/fVO9F44.png
 * On our end it doesn't look like there are any problems however when listening to the stream or recording it is obvious it's not being captured.
 
 ## How to fix
-1. Check what sample rates your DAC or device supports : https://i.imgur.com/CY2QpMW.png
+1. Check what sample rates your DAC or device supports : https://i.imgur.com/CY2QpMW.png - and check what sample rate the device is currently using: https://i.imgur.com/G5P9XBu.png
 * These are the defaults for mine so I haven't changed them but according to Amanero's website the DAC supports a variety of sample rates, including 44.1 Khz.
 2. Open OBS and change the sample rate: https://i.imgur.com/03OnARK.png
 3. Profit
